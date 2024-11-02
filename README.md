@@ -10,8 +10,9 @@ Our initial release is now available! You can download the game and all necessar
 ### Installation Steps
 1. Download the executable files and necessary assets from the [Releases page](https://github.com/YiyangLu9912/AxA-Game/releases).
 2. Extract all files to a directory of your choice.
-3. Run the `UEPrereqSetup_x64.exe` to install any necessary prerequisites.
-4. Launch the game using `AiA_Dialogue.exe`.
+3. Make sure you have stable wifi connected.
+4. Run the `UEPrereqSetup_x64.exe` to install any necessary prerequisites.
+5. Launch the game using `AiA_Dialogue.exe`.
 
 ## Features
 - High-Quality Graphics
